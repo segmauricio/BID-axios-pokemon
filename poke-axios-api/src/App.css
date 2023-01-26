@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+.fetcher{
+  background-color: #666666;
+  color: white;
+  padding: 10px;
+  margin-top: 50px;
+  border-radius: 15px;
+  border-style: none;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.listItem{
+  padding-right: 50px;
+}
